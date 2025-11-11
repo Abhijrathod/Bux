@@ -1,0 +1,10 @@
+[package]
+name = "bux"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2"
+rustyline = "14"
+dirs = "5"
+crossterm = "0.27"
