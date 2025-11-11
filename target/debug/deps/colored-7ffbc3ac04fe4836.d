@@ -1,0 +1,10 @@
+C:\Users\Abhijit\bux\bux\target\debug\deps\colored-7ffbc3ac04fe4836.d: C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\lib.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\color.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\control.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\error.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\style.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\customcolors.rs
+
+C:\Users\Abhijit\bux\bux\target\debug\deps\libcolored-7ffbc3ac04fe4836.rmeta: C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\lib.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\color.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\control.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\error.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\style.rs C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\customcolors.rs
+
+C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\lib.rs:
+C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\color.rs:
+C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\control.rs:
+C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\error.rs:
+C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\style.rs:
+C:\Users\Abhijit\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\customcolors.rs:
