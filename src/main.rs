@@ -21,7 +21,9 @@ fn main() {
                 let trimmed = input.trim();
                 if trimmed.is_empty() { continue; }
 
-                rl.add_history_entry(trimmed);
+              let _ = rl.add_history_entry(trimmed);
+                 
+                
 
                 if trimmed == "exit" {
                     println!("Goodbye 👋");
