@@ -1,0 +1,27 @@
+[package]
+name = "bux-cli"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+keywords.workspace = true
+categories.workspace = true
+
+[[bin]]
+name = "bux"
+path = "src/main.rs"
+
+[dependencies]
+bux-core = { path = "../bux-core" }
+bux-commands = { path = "../bux-commands" }
+colored.workspace = true
+rustyline.workspace = true
+crossterm.workspace = true
+dirs.workspace = true
+anyhow.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+log.workspace = true
+env_logger.workspace = true
+

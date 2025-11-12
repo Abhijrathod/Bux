@@ -2,6 +2,12 @@ mod command;
 mod builtins;
 mod prompt;
 mod history;
+mod alias;
+mod parser;
+mod plugin;
+mod theme;
+mod utils;
+mod config;
 
 use rustyline::{Editor};
 use rustyline::history::DefaultHistory;

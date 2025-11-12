@@ -1,0 +1,17 @@
+[package]
+name = "bux-native"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+keywords.workspace = true
+categories.workspace = true
+
+[lib]
+name = "bux_native"
+crate-type = ["cdylib"]
+
+[dependencies]
+anyhow.workspace = true
+

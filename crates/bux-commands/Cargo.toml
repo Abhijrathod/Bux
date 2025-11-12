@@ -1,0 +1,21 @@
+[package]
+name = "bux-commands"
+version = { workspace = true }
+edition = { workspace = true }
+authors = { workspace = true }
+license = { workspace = true }
+repository = { workspace = true }
+keywords = { workspace = true }
+categories = { workspace = true }
+description = "Core built-in commands for the Bux shell"
+
+[dependencies]
+# Internal crate link
+bux-core = { path = "../bux-core" }
+
+# Workspace dependencies
+anyhow = { workspace = true }
+serde = { workspace = true }
+git2 = { workspace = true }
+hostname = { workspace = true }
+dirs = { workspace = true }          # ✅ Required to fix your previous build error

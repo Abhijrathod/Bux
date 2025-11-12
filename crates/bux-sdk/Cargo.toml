@@ -1,0 +1,19 @@
+[package]
+name = "bux-sdk"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+keywords.workspace = true
+categories.workspace = true
+
+[lib]
+name = "bux_sdk"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+bux-core = { path = "../bux-core" }
+anyhow.workspace = true
+serde.workspace = true
+

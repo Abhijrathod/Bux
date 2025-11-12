@@ -1,0 +1,21 @@
+[package]
+name = "bux-tests"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+keywords.workspace = true
+categories.workspace = true
+
+[lib]
+name = "bux_tests"
+path = "src/lib.rs"
+
+[dependencies]
+bux-core = { path = "../bux-core" }
+bux-commands = { path = "../bux-commands" }
+bux-cli = { path = "../bux-cli" }
+anyhow.workspace = true
+tempfile.workspace = true
+
